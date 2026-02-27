@@ -1,0 +1,84 @@
+=== APP STORE METADATA ===
+
+📱 APP NAME (MAX 20 CHARS):
+Baby Journey
+
+📝 SUBTITLE (MAX 30 CHARS):
+Pregnancy & Baby Milestones
+
+🔑 KEYWORDS (MAX 100 CHARS, NO SPACES AFTER COMMAS!):
+pregnancy,baby,tracker,milestones,kicks,growth,hospital,bag,weight,weeks,development,newborn,mom
+
+📖 DESCRIPTION (PLAIN TEXT ONLY, NO EMOJIS, NO BULLET POINTS):
+Baby Journey is the only app you need from the moment you see two lines on the test until your toddler takes their first steps. The app seamlessly covers both pregnancy tracking and baby milestone recording in one beautiful, intuitive experience.
+
+During pregnancy, Baby Journey guides you week by week with delightful fruit size comparisons so you always know how big your little one is growing. Each of the 40 weeks includes detailed development information about what is happening inside, along with practical tips tailored to that specific stage of pregnancy. You will never miss an important medical appointment thanks to the built-in checkup tracker that covers every key test and scan from the first visit through delivery day.
+
+The weight tracker lets you monitor your pregnancy weight gain with a clean line chart that shows your trend over time. The kick counter provides a simple tap-to-count interface with a built-in timer, helping you follow the recommended daily kick counting practice. When it is time to pack for the hospital, the categorized hospital bag checklist ensures you have everything organized from documents to baby essentials.
+
+After your baby arrives, Baby Journey transitions into a comprehensive milestone tracker covering motor skills, speech development, social interactions, and cognitive growth from birth through 24 months. Each milestone shows the typical age range so you know what to expect and when. The growth charts track weight, length, and head circumference with visual line graphs that make it easy to see your baby's progress at a glance.
+
+All data is stored securely on your device with no accounts or internet connection required. You can export your complete journey as a JSON file to keep a backup or share with your partner. Baby Journey is designed with a warm, calming dark interface that is gentle on tired eyes during those late-night feedings.
+
+📱 PRIMARY CATEGORY:
+Health & Fitness
+
+📱 SECONDARY CATEGORY:
+Medical
+
+🎯 AGE RATING:
+4+ (No objectionable content)
+
+🖼️ SCREENSHOTS NEEDED:
+1. Pregnancy main dashboard showing current week, fruit comparison, and wave progress bars
+2. Week detail view with fruit emoji, size stats, development info, and mama tip
+3. Medical checkups list with completion status and due indicators
+4. Kick counter interface with large tap area, timer, and session history
+5. Hospital bag checklist grouped by category with packing progress
+6. Baby milestones screen with category filter chips and progress chart
+7. Growth charts showing weight, length, and head circumference trends
+8. Settings screen with profile info, mode switch, and data export
+
+🔒 PERMISSIONS:
+None required
+
+📝 PRIVACY POLICY:
+Not required (no data collection, local storage only)
+
+🌍 AVAILABILITY:
+All territories
+
+💰 PRICING:
+Free
+
+=== TECHNICAL INFO ===
+
+Bundle ID: com.rgutu.babyjourney
+Version: 1.0
+Build: 1
+iOS Deployment Target: 17.0+
+Device Support: iPhone + iPad
+Orientation: Portrait
+
+=== MARKETING NOTES ===
+
+UNIQUE SELLING POINTS:
+- Two-in-one app covering pregnancy and post-birth tracking seamlessly
+- Fun fruit size comparisons for all 40 pregnancy weeks
+- Interactive kick counter with timer and session history
+- Comprehensive hospital bag checklist with categorized items
+- 30 baby milestones across 4 developmental categories
+- Growth charts for weight, length, and head circumference
+- Smooth transition from pregnancy mode to baby mode
+
+TARGET KEYWORDS FOR ASO:
+- pregnancy tracker week by week
+- baby milestone tracker
+- kick counter pregnancy
+- hospital bag checklist
+- baby growth chart
+- newborn development tracker
+- pregnancy app fruit size
+
+COMPETITIVE ADVANTAGE:
+Most pregnancy apps stop at birth, and most baby apps start at birth. Baby Journey uniquely bridges both phases in a single, elegant application. The warm dark theme is specifically designed for expectant and new mothers who often check their phone in low-light conditions. With zero accounts required and complete offline functionality, it respects user privacy while delivering a premium tracking experience that grows with the family.
